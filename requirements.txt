@@ -1,1 +1,11 @@
+chainlit
+python-dotenv
 chromadb
+langchain-core
+langchain-community
+langchain
+openai
+langchain_text_splitters
+langchain-chroma
+langchain-openai
+pypdf
